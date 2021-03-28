@@ -1,4 +1,4 @@
-# SA-HW2
+# SA-StuManager
 
 Simple student information manager<br>
 Searching only by name<br>
