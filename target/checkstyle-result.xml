@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\.gitignore">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\.mvn\wrapper\maven-wrapper.jar">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\.mvn\wrapper\maven-wrapper.properties">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\.mvn\wrapper\MavenWrapperDownloader.java">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\mvnw">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\mvnw.cmd">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\pom.xml">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\pom.xml.bak">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\README.md">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\checkstyle\nohttp-checkstyle-suppressions.xml">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\checkstyle\nohttp-checkstyle.xml">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\java\com\example\stumanager\controller\HomeController.java">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\java\com\example\stumanager\controller\StuController.java">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\java\com\example\stumanager\model\Student.java">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\java\com\example\stumanager\repository\StuRepository.java">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\java\com\example\stumanager\StuManagerApplication.java">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\less\header.less">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\less\petclinic.less">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\less\responsive.less">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\less\typography.less">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\application.properties">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\db\hsqldb\data.sql">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\db\hsqldb\schema.sql">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\messages\messages.properties">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\messages\messages_de.properties">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\messages\messages_en.properties">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\static\resources\fonts\montserrat-webfont.eot">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\static\resources\fonts\montserrat-webfont.svg">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\static\resources\fonts\montserrat-webfont.ttf">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\static\resources\fonts\montserrat-webfont.woff">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\static\resources\fonts\varela_round-webfont.eot">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\static\resources\fonts\varela_round-webfont.svg">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\static\resources\fonts\varela_round-webfont.ttf">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\static\resources\fonts\varela_round-webfont.woff">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\static\resources\images\favicon.png">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\static\resources\images\pets.png">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\static\resources\images\platform-bg.png">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\static\resources\images\spring-logo-dataflow-mobile.png">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\static\resources\images\spring-logo-dataflow.png">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\static\resources\images\spring-pivotal-logo.png">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\templates\error.html">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\templates\fragments\inputField.html">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\templates\fragments\layout.html">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\templates\fragments\selectField.html">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\templates\homePage.html">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\templates\students\createOrUpdate.html">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\templates\students\findStudents.html">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\templates\students\studentDetails.html">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\resources\templates\students\studentsList.html">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\wro\wro.properties">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\main\wro\wro.xml">
+</file>
+<file name="C:\Users\lxrzh\workspace\gitrepo\SA-StuManager\src\test\java\com\example\stumanager\StuManagerApplicationTests.java">
+</file>
+</checkstyle>

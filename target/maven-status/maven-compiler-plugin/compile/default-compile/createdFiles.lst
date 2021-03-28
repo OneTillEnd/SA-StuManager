@@ -1,0 +1,5 @@
+com\example\stumanager\repository\StuRepository.class
+com\example\stumanager\controller\HomeController.class
+com\example\stumanager\model\Student.class
+com\example\stumanager\StuManagerApplication.class
+com\example\stumanager\controller\StuController.class

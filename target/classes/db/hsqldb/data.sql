@@ -1,0 +1,10 @@
+INSERT INTO students VALUES (1, 'Franklin', 'male', '1999-07-21', 'Dallas', 'Computer Science');
+INSERT INTO students VALUES (2, 'Melay', 'female', '1998-04-06', 'Washinton', 'Mathematics');
+INSERT INTO students VALUES (3, 'Duke', 'male', '1999-05-19', 'LA', 'Electrical Engineering');
+INSERT INTO students VALUES (4, 'Marcus', 'male', '1999-12-12', 'Chicago', 'Computer Science');
+INSERT INTO students VALUES (5, 'Shelton', 'male', '1998-01-30', 'Columbus', 'Literature');
+INSERT INTO students VALUES (6, 'Franklin', 'female', '1999-09-04', 'Denver', 'History');
+INSERT INTO students VALUES (7, 'Michael', 'male', '1998-03-15', 'Dallas', 'Chemistry');
+INSERT INTO students VALUES (8, 'Black', 'female', '1999-11-02', 'Portland', 'Physics');
+INSERT INTO students VALUES (9, 'Oliver', 'male', '1997-12-21', 'Phoenix', 'Mathematics');
+INSERT INTO students VALUES (10, 'Leslie', 'male', '1999-06-19', 'Boston', 'Physics');
